@@ -1,5 +1,7 @@
 # Discord-Random-Diep-Bugtracker
 
+⚠️Depreciation Warning⚠️: This Software is no longer maintained as of 2020-10-11
+
 This is the public Bugtracker for the Spade Squads RandomDiep Bot
 
 This repository is the preffered way to:
